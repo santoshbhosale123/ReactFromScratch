@@ -1,0 +1,52 @@
+Episode 02: Igniting App
+GitUrl: https://github.com/santoshbhosale123/ReactFromScratch
+
+Namste React GitHub Link: https://github.com/namastedev/namaste-react
+
+
+ --package.json is configuration for npm
+ -- create-react-app uses webpack(bundler)
+ we will use the parcel     
+   -- two types of dependancies
+       1: dev dependanacy(npm install -D parcel) --For development mode
+       2:Normal dependanacy(npm install parcel) -- can be use for production
+
+
+    Difference Between packege.json and package-lock.json=>{
+    
+     let packege-lock.json = "locks the version and keeps record of every exact version of that package"
+     
+     let package.json=" package.json can have caret till date,keeps a approx verson" 
+    
+    }   
+
+ignite app-
+ npx parcel index.html
+    Server running at http://localhost:1234
+✨   Built in 1.51s
+
+  npm =>if you want to install
+  npx = > executing a package 
+
+
+  parcel=>{
+  -Dev build
+  - Local server
+  -hot module replacement(hmr) -automaticlly refresh page when save code
+  --caching --faster builds
+  - Bundling
+  - compressing
+  -image optimization
+  -consistent hashing
+  -code splitting
+  - differential bundling - support older browsers
+  - Dignostic
+  -Error handling
+  -HTTPs
+  -tree shaking-- removes unused code
+  -different dev and prod bundles
+
+
+  }
+Documentation
+  parceljs.org
