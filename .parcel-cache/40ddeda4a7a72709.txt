@@ -1,14 +1,14 @@
-6080
+6084
 77D:\ReactProject\AkshaySainiReactClass\node_modules\@parcel\transformer-js\src133376150103839300 1
 86D:\ReactProject\AkshaySainiReactClass\node_modules\htmlparser2\lib\WritableStream.d.ts133376150115943082 0
-42D:\ReactProject\AkshaySainiReactClass\dist133376206626490628 1
+42D:\ReactProject\AkshaySainiReactClass\dist133376207004199609 1
 73D:\ReactProject\AkshaySainiReactClass\node_modules\css-tree\cjs\index.cjs133376150167283076 0
 91D:\ReactProject\AkshaySainiReactClass\node_modules\@swc\helpers\_\_class_private_field_init133376150230312595 1
 66D:\ReactProject\AkshaySainiReactClass\node_modules\source-map\dist133376150125408830 1
 66D:\ReactProject\AkshaySainiReactClass\node_modules\chalk\readme.md133376150078347371 0
 104D:\ReactProject\AkshaySainiReactClass\node_modules\csso\node_modules\css-tree\lib\syntax\atrule\index.js133376150215454965 0
 68D:\ReactProject\AkshaySainiReactClass\node_modules\commander\typings133376150089344673 1
-48D:\ReactProject\AkshaySainiReactClass\.gitignore133376164532426464 0
+48D:\ReactProject\AkshaySainiReactClass\.gitignore133376210455488312 0
 73D:\ReactProject\AkshaySainiReactClass\node_modules\msgpackr\node-index.js133376150118437310 0
 78D:\ReactProject\AkshaySainiReactClass\node_modules\entities\lib\encode-trie.js133376150085355060 0
 91D:\ReactProject\AkshaySainiReactClass\node_modules\caniuse-lite\data\features\array-find.js133376150133730747 0
@@ -61,7 +61,7 @@
 68D:\ReactProject\AkshaySainiReactClass\node_modules\@msgpackr-extract133376176199009670 1
 74D:\ReactProject\AkshaySainiReactClass\node_modules\source-map\package.json133376150056480150 0
 79D:\ReactProject\AkshaySainiReactClass\node_modules\@swc\helpers\cjs\_update.cjs133376150180608199 0
-50D:\ReactProject\AkshaySainiReactClass\package.json133376206560042733 0
+50D:\ReactProject\AkshaySainiReactClass\package.json133376266442095530 0
 80D:\ReactProject\AkshaySainiReactClass\node_modules\@parcel\source-map\index.d.ts133376150195429709 0
 57D:\ReactProject\AkshaySainiReactClass\node_modules\@lezer133376150042492316 1
 72D:\ReactProject\AkshaySainiReactClass\node_modules\caniuse-lite\dist\lib133376150263225439 1
@@ -4423,6 +4423,7 @@
 84D:\ReactProject\AkshaySainiReactClass\node_modules\caniuse-lite\data\features\svg.js133376150264756447 0
 98D:\ReactProject\AkshaySainiReactClass\node_modules\caniuse-lite\data\features\template-literals.js133376150265554309 0
 89D:\ReactProject\AkshaySainiReactClass\node_modules\caniuse-lite\data\features\template.js133376150265574266 0
+64D:\ReactProject\AkshaySainiReactClass\dist\index.f9610f6c.js.map133376207004189657 0
 65D:\ReactProject\AkshaySainiReactClass\node_modules\@parcel\plugin133376150092339476 1
 92D:\ReactProject\AkshaySainiReactClass\node_modules\caniuse-lite\data\features\textencoder.js133376150266122808 0
 76D:\ReactProject\AkshaySainiReactClass\node_modules\@parcel\optimizer-swc\lib133376150092863451 1
@@ -6077,5 +6078,8 @@
 82D:\ReactProject\AkshaySainiReactClass\node_modules\.bin\update-browserslist-db.ps1133376150300649675 0
 76D:\ReactProject\AkshaySainiReactClass\dist\AkshaySainiReactClass.3464ddca.js133376176212385984 0
 64D:\ReactProject\AkshaySainiReactClass\dist\index.6bd02f5a.js.map133376176213054170 0
+61D:\ReactProject\AkshaySainiReactClass\dist\index.8d566482.css133376207003960258 0
+65D:\ReactProject\AkshaySainiReactClass\dist\index.8d566482.css.map133376207004179672 0
 61D:\ReactProject\AkshaySainiReactClass\dist\index.9e4c6fd2.css133376206625423494 0
-53D:\ReactProject\AkshaySainiReactClass\dist\index.html133376206626380904 0
+60D:\ReactProject\AkshaySainiReactClass\dist\index.f9610f6c.js133376207003980200 0
+53D:\ReactProject\AkshaySainiReactClass\dist\index.html133376207003950288 0
